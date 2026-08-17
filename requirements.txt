@@ -1,0 +1,7 @@
+numpy
+pandas
+laspy
+geopandas
+shapely
+lazrs
+pytest

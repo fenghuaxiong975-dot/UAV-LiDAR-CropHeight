@@ -1,0 +1,12 @@
+name: uav-lidar-cropheight
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - numpy
+  - pandas
+  - laspy
+  - geopandas
+  - shapely
+  - lazrs-python
+  - pytest
